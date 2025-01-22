@@ -9,7 +9,7 @@ import NavLinks from "@/components/ui/NavLinks";
 
 const socialLinks = [
   {
-    link: "https://github.com/No0ne003/React-Projects",
+    link: "https://github.com/neuxq/React-Projects",
     icon: <FaGithub size={15} />,
     name: "Github",
   },

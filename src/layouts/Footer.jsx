@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const socialLinks = [
-  { link: "https://github.com/No0ne003/React-Projects", icon: <FaGithub /> },
+  { link: "https://github.com/neuxq/React-Projects", icon: <FaGithub /> },
 ];
 
 const Footer = memo(function Footer({ setCursorVariant }) {
@@ -32,9 +32,9 @@ const Content = ({ setCursorVariant }) => {
 
       <div className="flex flex-col gap-3 justify-end h-full w-full">
         <div className="flex justify-center w-full gap-1 text-xs sm:text-sm">
-          <p>Made with &lt;3 by No0ne003</p>
+          <p>Made with &lt;3 by neuxq</p>
           <p className="text-gray-400 text-sm leading-5">
-            | &copy; {new Date().getFullYear()} No0ne003.
+            | &copy; {new Date().getFullYear()} neuxq.
           </p>
         </div>
 
