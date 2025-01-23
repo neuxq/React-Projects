@@ -5,7 +5,7 @@ import Loading from "@/components/ui/Loading";
 import User from "./User";
 
 const GithubProfileFinder = () => {
-  const [userName, setUserName] = useState("neuxq");
+  const [userName, setUserName] = useState("nuexq");
   const [userData, setUserData] = useState(null);
   const [loading, setLoading] = useState(false);
 

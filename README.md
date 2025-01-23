@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-   <a href="https://github.com/neuxq/React-Project/stargazers"><img src="https://img.shields.io/github/stars/neuxq/React-Project?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/neuxq/React-Project/commits/"><img src="https://img.shields.io/github/last-commit/neuxq/React-Project?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <img src='https://img.shields.io/github/languages/top/neuxq/React-Project?style=for-the-badge&labelColor=363a4f&color=b7bdf8'>
+   <a href="https://github.com/nuexq/React-Project/stargazers"><img src="https://img.shields.io/github/stars/nuexq/React-Project?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/nuexq/React-Project/commits/"><img src="https://img.shields.io/github/last-commit/nuexq/React-Project?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <img src='https://img.shields.io/github/languages/top/nuexq/React-Project?style=for-the-badge&labelColor=363a4f&color=b7bdf8'>
 </p>
 <p align="center">
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
@@ -28,7 +28,7 @@ Follow these instructions to get the project up and running on your local machin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/neuxq/React-Projects.git
+   git clone https://github.com/nuexq/React-Projects.git
    ```
 
 2. **Install dependencies:**
